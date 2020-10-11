@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "node server.js",
+    "start:dev": "nodemon server.js",
     "start:prod": "NODE_ENV=production nodemon server.js"
   },
   "author": "Kata Tanej Kumar",
@@ -28,5 +29,8 @@
   "devDependencies": {
     "morgan": "^1.10.0",
     "nodemon": "^2.0.4"
+  },
+  "engines": {
+    "node": ">=10.0.0"
   }
 }
