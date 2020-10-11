@@ -1,5 +1,5 @@
 const express = require("express");
-const morgan = require("morgan");
+//const morgan = require("morgan");
 const mongoSanitize = require('express-mongo-sanitize');
 const xss = require('xss-clean');
 const hpp = require('hpp');
@@ -17,9 +17,9 @@ const app = express();
 app.use(helmet());
 
 // dev log
-if (process.env.NODE_ENV === "development") {
-  app.use(morgan("dev"));
-}
+// if (process.env.NODE_ENV === "development") {
+//   app.use(morgan("dev"));
+// }
 
 // limit request in same api
 const limiter = rateLimit({
