@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Approach(almost) any NLP problem",
+    "author": "Abhisek Thakur",
+    "category": "science",
+    "price": 2500,
+    "rating": 4.5,
+    "publishedDate": "2020-04-14",
+    "premiumBook": true,
+    "description": "A complete book for nlp from start to end"
+  },
+  {
+    "name": "The elements of statistical learning",
+    "author": "Springer",
+    "category": "science",
+    "price": 700,
+    "rating": 4.0,
+    "publishedDate": "2000-04-14"
+  },
+  {
+    "name": "Introduction to Algorithms",
+    "author": "coromen",
+    "category": "science",
+    "price": 1200,
+    "rating": 4.6,
+    "publishedDate": "1956-06-16"
+  },
+  {
+    "name": "Statistics",
+    "author": "Springer",
+    "category": "science",
+    "price": 700,
+    "rating": 4.0,
+    "publishedDate": "2000-04-14",
+    "premiumBook": true
+  },
+  {
+    "name": "Yes Please",
+    "author": "Amy Poehler",
+    "category": "comedy",
+    "price": 300,
+    "rating": 3.3,
+    "publishedDate": "2015-04-14"
+  },
+  {
+    "name": "Tina Fey",
+    "author": "Bosspath",
+    "category": "comedy",
+    "price": 650,
+    "rating": 3.9,
+    "publishedDate": "2001-04-14"
+  },
+  {
+    "name": "One More Thing",
+    "author": "BB.J.Novals",
+    "category": "comedy",
+    "price": 700,
+    "rating": 4.7,
+    "publishedDate": "2002-04-14",
+    "premiumBook": true
+  },
+  {
+    "name": "Cruel Shoes",
+    "author": "steve Martin",
+    "category": "comedy",
+    "price": 1050,
+    "rating": 2.7,
+    "publishedDate": "2005-06-06",
+    "premiumBook": true
+  },
+  {
+    "name": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "category": "drama",
+    "price": 1500,
+    "rating": 4.21,
+    "publishedDate": "1950-12-30"
+  },
+  {
+    "name": "To kill a mockingbird",
+    "author": "Harper Lee",
+    "category": "drama",
+    "price": 2700,
+    "rating": 3.0,
+    "publishedDate": "1964-03-27",
+    "premiumBook": true
+  },
+  {
+    "name": "Harry Potter",
+    "author": "Khaled Hosseini",
+    "category": "drama",
+    "price": 1500,
+    "rating": 4.21,
+    "publishedDate": "1950-07-27"
+  },
+  {
+    "name": "Dracula",
+    "author": "Donald",
+    "category": "horror",
+    "price": 450,
+    "rating": 4.6,
+    "premiumBook": true,
+    "publishedDate": "2007-11-11",
+    "description": "this is one of the best horror books "
+  },
+  {
+    "name": "House of Leaves",
+    "author": "Mark",
+    "category": "horror",
+    "price": 140,
+    "rating": 3.7,
+    "publishedDate": "2006-03-19"
+  },
+  {
+    "name": "Mar Brooks",
+    "author": "Mark",
+    "category": "horror",
+    "price": 360,
+    "rating": 3.9,
+    "publishedDate": "2006-05-21"
+  },
+  {
+    "name": "The Exoricist",
+    "author": "Mark",
+    "category": "horror",
+    "price": 699,
+    "rating": 4.7,
+    "publishedDate": "2006-02-15"
+  },
+  {
+    "name": "Mausd",
+    "author": "Soiegelum",
+    "category": "comic",
+    "price": 450,
+    "rating": 3.0,
+    "premiumBook": true,
+    "publishedDate": "2007-03-04"
+  },
+  {
+    "name": "The Night Swen Died",
+    "author": "Sarah Bruni",
+    "category": "comic",
+    "price": 450,
+    "rating": 4.3,
+    "publishedDate": "2007-11-26"
+  },
+  {
+    "name": "Justice League",
+    "author": "Steve",
+    "category": "comic",
+    "price": 950,
+    "rating": 4.6,
+    "premiumBook": true,
+    "publishedDate": "2007-01-31",
+    "description": "Super hero books"
+  }
+]
