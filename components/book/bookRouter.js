@@ -5,11 +5,11 @@ const router = express.Router();
 
 router
   .route("/top-5-books")
-  .get(bookController.getTop5Books, bookController.getAllBooks);
+  .get(authController.protect,bookController.getTop5Books, bookController.getAllBooks);
 
 router
   .route("/premium")
-  .get(bookController.getPremiumBooks, bookController.getAllBooks);
+  .get(authController.protect,bookController.getPremiumBooks, bookController.getAllBooks);
 
 router
   .route("/")
